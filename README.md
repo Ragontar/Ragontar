@@ -1,5 +1,5 @@
 - Name: Dmitry
-- Age: still alive
+- Age: Still alive
 - Currently learning Golang and Backend development in general
 - I’m looking to collaborate on гребля на галере 
 - One day I'll become ~a hokage~ a Senior
